@@ -1,5 +1,5 @@
 ---
-description: Another day in office.!
+description: Another day in office!
 ---
 
 # Test
